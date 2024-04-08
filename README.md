@@ -5,7 +5,7 @@ Proyecto despachos de Colono
 ## Iniciando
 Se creo este proyecto de forma temporal para probar el auto_update.
 
-Algunas recuersos para sus primeros poryecos en Flutter:
+Algunas recursos para sus primeros poryecos en Flutter:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
